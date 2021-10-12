@@ -1,3 +1,5 @@
+//this file contains seed data for Actors, Movies, and Directors 
+
 let movies = [
   {
     title: 'Doctor Strange',
